@@ -11,6 +11,7 @@
 <h1>Constructive algorithms</h1>
 <ul>
     <li><a href = "https://codeforces.com/problemset/problem/1304/D">Shortest and Longest LIS</a></li>
+    <li><a href = "https://codeforces.com/problemset/problem/1290/B">Irreducible Anagrams</a> (Hidden logic)</li>
 </ul>
 
 <h1>Greedy</h1>
