@@ -19,6 +19,11 @@
 <li><a href = "https://codeforces.com/problemset/problem/1343/D">Constant Palindrome Sum</a></li>
 </ul>
 
+<h1> Policy based Datastructures</h1>
+<ul>
+    <li><a href = "https://codeforces.com/problemset/problem/1042/D">Petya and Array</a> </li>
+</ul>
+
 <h1>Prefix Sum</h1>
 <ul><li><a href = "https://codeforces.com/problemset/problem/1343/D">Constant Palindrome Sum </a>(Greedy, brute force)</li> </ul>
 
@@ -52,6 +57,13 @@
 <ul>
   <li><a href = "https://codeforces.com/problemset/problem/1335/E1">E1. Three Blocks Palindrome (easy version) </a>(ds > vector of vector)</li>
   <li><a href = "https://codeforces.com/problemset/problem/1335/E2">E2. Three Blocks Palindrome (hard version) </a>(ds > vector of vector)</li>
+</ul>
+
+<h1> Dynamic range queries </h1>
+<h1> Binary Indexed tree or Fenwick tree (BIT) </h1>
+<ul>
+  <li><a href = "https://codeforces.com/problemset/problem/1042/D">Petya and Array</a>(binary search, sorting)</li>
+  <li><a href = ""> </a></li>
 </ul>
 
 <h1>Segement tree</h1>
