@@ -36,7 +36,8 @@
 <ul>
   <li><a href = "https://codeforces.com/problemset/problem/895/B">XK Segments </a>(Map, Math)</li>
   <li><a href = "https://codeforces.com/problemset/problem/1335/E2">E2. Three Blocks Palindrome (hard version) </a>(vec of vec)</li> 
-  <li><a href = "https://codeforces.com/problemset/problem/519/D">A and B and Interesting Substrings</a>(map, vec of vec)</li>
+  <li><a href = "https://codeforces.com/problemset/problem/519/D">A and B and Interesting Substrings</a> (map, vec of vec)</li>
+  <li><a href = "https://codeforces.com/problemset/problem/280/B">Maximum Xor Secondary</a> (stack)</li>
 </ul>
 
 
