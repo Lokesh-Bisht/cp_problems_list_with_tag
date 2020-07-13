@@ -6,6 +6,9 @@
   <li><a href = "https://codeforces.com/problemset/problem/1041/D">Glider</a></li>
   <li><a href = "https://codeforces.com/problemset/problem/439/D">Devu and his Brother</a></li>
   <li><a href = "https://codeforces.com/problemset/problem/895/B">XK Segments </a></li>
+  <li><a href = "https://codeforces.com/problemset/problem/460/C">Present</a> (Binary search+dp)</li>
+  <li><a href = "https://codeforces.com/problemset/problem/1000/C">Covered points count</a> (Co-ordination compression+map/binary search)</li>
+  <li><a hre = "https://codeforces.com/problemset/problem/622/C?f0a28=1">Not equal on a segment</a> (Lowere bound)</li>
 </ul>
 
 <h1>Constructive algorithms</h1>
@@ -38,6 +41,7 @@
   <li><a href = "https://codeforces.com/problemset/problem/1335/E2">E2. Three Blocks Palindrome (hard version) </a>(vec of vec)</li> 
   <li><a href = "https://codeforces.com/problemset/problem/519/D">A and B and Interesting Substrings</a> (map, vec of vec)</li>
   <li><a href = "https://codeforces.com/problemset/problem/280/B">Maximum Xor Secondary</a> (stack)</li>
+  <li><a href = "https://codeforces.com/problemset/problem/1000/C">Covered points count</a> (Co-ordination compression+map/binary search)</li>
 </ul>
 
 
