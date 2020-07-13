@@ -8,7 +8,7 @@
   <li><a href = "https://codeforces.com/problemset/problem/895/B">XK Segments </a></li>
   <li><a href = "https://codeforces.com/problemset/problem/460/C">Present</a> (Binary search+dp)</li>
   <li><a href = "https://codeforces.com/problemset/problem/1000/C">Covered points count</a> (Co-ordination compression+map/binary search)</li>
-  <li><a hre = "https://codeforces.com/problemset/problem/622/C?f0a28=1">Not equal on a segment</a> (Lowere bound)</li>
+  <li><a href = "https://codeforces.com/problemset/problem/622/C?f0a28=1">Not equal on a segment</a> (Binary search+Lower bound)</li>
 </ul>
 
 <h1>Constructive algorithms</h1>
