@@ -11,6 +11,12 @@
   <li><a href = "https://codeforces.com/problemset/problem/622/C?f0a28=1">Not equal on a segment</a> (Binary search+Lower bound)</li>
 </ul>
 
+<h1>Bits manipulation</h1>
+<ul>
+  <li> <a href = "https://codeforces.com/problemset/problem/1066/E">Binary numbers and sum </a></li>
+</ul>
+
+
 <h1>Constructive algorithms</h1>
 <ul>
     <li><a href = "https://codeforces.com/problemset/problem/1304/D">Shortest and Longest LIS</a></li>
