@@ -26,6 +26,7 @@
 <h1>Greedy</h1>
 <ul><li><a href = "https://codeforces.com/contest/349/problem/B">Color the Fence</a></li> 
 <li><a href = "https://codeforces.com/problemset/problem/1343/D">Constant Palindrome Sum</a></li>
+  <li><a href = "https://codeforces.com/contest/797/problem/C">Minimal string</a> (stack+greedy)</li>
 </ul>
 
 <h1> Policy based Datastructures</h1>
@@ -47,7 +48,9 @@
   <li><a href = "https://codeforces.com/problemset/problem/1335/E2">E2. Three Blocks Palindrome (hard version) </a>(vec of vec)</li> 
   <li><a href = "https://codeforces.com/problemset/problem/519/D">A and B and Interesting Substrings</a> (map, vec of vec)</li>
   <li><a href = "https://codeforces.com/problemset/problem/280/B">Maximum Xor Secondary</a> (stack)</li>
+  <li><a href = "https://codeforces.com/contest/797/problem/C">Minimal string</a> (stack+greedy)</li>
   <li><a href = "https://codeforces.com/problemset/problem/1000/C">Covered points count</a> (Co-ordination compression+map/binary search)</li>
+  <li><a href = "https://codeforces.com/problemset/problem/1182/C">Beautiful lyrics</a> ( map( pair(int, char), string) + greedy)</li>
 </ul>
 
 
