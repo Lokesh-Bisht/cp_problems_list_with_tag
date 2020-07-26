@@ -21,6 +21,7 @@
 <ul>
     <li><a href = "https://codeforces.com/problemset/problem/1304/D">Shortest and Longest LIS</a></li>
     <li><a href = "https://codeforces.com/problemset/problem/1290/B">Irreducible Anagrams</a> (Hidden logic)</li>
+    <li><a href = "https://codeforces.com/problemset/problem/1023/D">Array Restoration</a> (Set/segment tree/sqrt decomposition + construction algo)</li>
 </ul>
 
 <h1>Greedy</h1>
@@ -51,6 +52,8 @@
   <li><a href = "https://codeforces.com/contest/797/problem/C">Minimal string</a> (stack+greedy)</li>
   <li><a href = "https://codeforces.com/problemset/problem/1000/C">Covered points count</a> (Co-ordination compression+map/binary search)</li>
   <li><a href = "https://codeforces.com/problemset/problem/1182/C">Beautiful lyrics</a> ( map( pair(int, char), string) + greedy)</li>
+  <li><a href = "https://codeforces.com/problemset/problem/1023/D">Array Restoration</a> (Set/segment tree/sqrt decomposition + construction algo)</li>
+  <li><a href = "https://codeforces.com/problemset/problem/900/C">Remove Extra One</a> (Set)</li>
 </ul>
 
 
