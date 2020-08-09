@@ -26,8 +26,9 @@
 
 <h1>Greedy</h1>
 <ul><li><a href = "https://codeforces.com/contest/349/problem/B">Color the Fence</a></li> 
-<li><a href = "https://codeforces.com/problemset/problem/1343/D">Constant Palindrome Sum</a></li>
-  <li><a href = "https://codeforces.com/contest/797/problem/C">Minimal string</a> (stack+greedy)</li>
+    <li><a href = "https://codeforces.com/problemset/problem/1343/D">Constant Palindrome Sum</a></li>
+    <li><a href = "https://codeforces.com/contest/797/problem/C">Minimal string</a> (stack+greedy)</li>
+    <li><a href = "https://codeforces.com/contest/924/problem/C">Riverside Curio</a> (dp, greedy)</li>
 </ul>
 
 <h1> Policy based Datastructures</h1>
@@ -54,6 +55,10 @@
   <li><a href = "https://codeforces.com/problemset/problem/1182/C">Beautiful lyrics</a> ( map( pair(int, char), string) + greedy)</li>
   <li><a href = "https://codeforces.com/problemset/problem/1023/D">Array Restoration</a> (Set/segment tree/sqrt decomposition + construction algo)</li>
   <li><a href = "https://codeforces.com/problemset/problem/900/C">Remove Extra One</a> (Set)</li>
+  <li><a href = "https://codeforces.com/problemset/problem/631/C">Report</a> (MultiSet, sorting)</li>
+  <li><a href = "https://codeforces.com/problemset/problem/670/E">Correct Bracket Sequence Editor</a> (Stack, pair, mapping)</li>
+
+  
 </ul>
 
 
@@ -61,7 +66,7 @@
 <h1>Two pointer</h1>
   <ul><li><a href = "https://codeforces.com/problemset/problem/466/C">Number of ways</a></li>
   <li><a href = "https://codeforces.com/contest/1333/problem/C">Eugene and an array</a></li> 
-<li><a href = "https://codeforces.com/contest/1335/problem/E1">Three Blocks Palindrome (easy version)</a> (Prefix sum, ds > vector of vector)</li>
+  <li><a href = "https://codeforces.com/contest/1335/problem/E1">Three Blocks Palindrome (easy version)</a> (Prefix sum, ds > vector of vector)</li>
   <li><a href = "https://codeforces.com/contest/1257/problem/D">Yet Another Monster Killing Problem</a> (Greedy)</li>
   <li><a href = "https://codeforces.com/problemset/problem/1203/D2">Remove the Substring (hard version)</a> (Greedy)</li>
   <li><a href = "https://codeforces.com/problemset/problem/1041/D">Glider</a></li>
