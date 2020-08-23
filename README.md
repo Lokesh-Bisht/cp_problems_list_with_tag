@@ -31,6 +31,11 @@
     <li><a href = "https://codeforces.com/contest/924/problem/C">Riverside Curio</a> (dp, greedy)</li>
 </ul>
 
+<h1>Maths</h1>
+<ul>
+   <li><a href = "https://codeforces.com/contest/385/problem/C">Bear and Prime Numbers</a> (Sieve, prefix sum)</li>
+</ul>
+
 <h1> Policy based Datastructures</h1>
 <ul>
     <li><a href = "https://codeforces.com/problemset/problem/1042/D">Petya and Array</a> </li>
