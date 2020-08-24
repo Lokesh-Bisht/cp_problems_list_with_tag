@@ -73,7 +73,7 @@
   <ul><li><a href = "https://codeforces.com/problemset/problem/466/C">Number of ways</a></li>
   <li><a href = "https://codeforces.com/contest/1333/problem/C">Eugene and an array</a></li> 
   <li><a href = "https://codeforces.com/contest/1335/problem/E1">Three Blocks Palindrome (easy version)</a> (Prefix sum, ds > vector of vector)</li>
-  <li><a href = "https://codeforces.com/contest/1257/problem/D">Yet Another Monster Killing Problem</a> (Greedy)</li>
+  <li><a href = "https://codeforces.com/contest/1257/problem/D">Yet Another Monster Killing Problem</a> (Prefix sum, Greedy)</li>
   <li><a href = "https://codeforces.com/problemset/problem/1203/D2">Remove the Substring (hard version)</a> (Greedy)</li>
   <li><a href = "https://codeforces.com/problemset/problem/1041/D">Glider</a></li>
 
