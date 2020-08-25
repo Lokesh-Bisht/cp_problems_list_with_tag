@@ -34,6 +34,7 @@
 <h1>Maths</h1>
 <ul>
    <li><a href = "https://codeforces.com/contest/385/problem/C">Bear and Prime Numbers</a> (Sieve, prefix sum)</li>
+  <li><a href="https://codeforces.com/problemset/problem/1061/C">Multiplicity</a> (Sieve, 1d dp > count number of ways)</li>
 </ul>
 
 <h1> Policy based Datastructures</h1>
