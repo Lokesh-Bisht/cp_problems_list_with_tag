@@ -31,6 +31,15 @@
     <li><a href = "https://codeforces.com/contest/924/problem/C">Riverside Curio</a> (dp, greedy)</li>
 </ul>
 
+<h1>Graphs</h1>
+<ol>
+  <li> <h2>APSP</h2>
+  <ul>
+    <li> <a href = "https://codeforces.com/problemset/problem/500/B">New Year Permutation (Floyd-Warshall on adj matrix)</li>
+  </ul>
+  </li>
+</ol>
+
 <h1>Maths</h1>
 <ul>
    <li><a href = "https://codeforces.com/contest/385/problem/C">Bear and Prime Numbers</a> (Sieve, prefix sum)</li>
