@@ -36,6 +36,7 @@
   <li> <h2>APSP</h2>
   <ul>
     <li> <a href = "https://codeforces.com/problemset/problem/500/B">New Year Permutation (Floyd-Warshall on adj matrix)</li>
+    <li> <a href = "https://codeforces.com/problemset/problem/601/A">The Two Routes (Floyd-Warshall)</li>
   </ul>
   </li>
 </ol>
@@ -61,6 +62,7 @@
 
 <h1>STL data structures</h1>
 <ul>
+  <li> <a href = "https://codeforces.com/contest/246/problem/D">Colorful Graph </a>(vector of set)</li>
   <li><a href = "https://codeforces.com/contest/567/problem/C">Geometric Progression </a>(Map)</li>
   <li><a href = "https://codeforces.com/problemset/problem/895/B">XK Segments </a>(Map, Math)</li>
   <li><a href = "https://codeforces.com/problemset/problem/1335/E2">E2. Three Blocks Palindrome (hard version) </a>(vec of vec)</li> 
