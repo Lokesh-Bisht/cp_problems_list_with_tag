@@ -39,6 +39,11 @@
     <li> <a href = "https://codeforces.com/problemset/problem/601/A">The Two Routes (Floyd-Warshall)</li>
   </ul>
   </li>
+  <li> <h2>dfs</h2>
+    <ul>
+      <li> <a href = "https://codeforces.com/problemset/problem/369/C">Valera and Elections</li>
+    </ul>
+  </li>
 </ol>
 
 <h1>Maths</h1>
