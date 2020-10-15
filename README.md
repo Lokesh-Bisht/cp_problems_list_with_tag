@@ -42,6 +42,7 @@
   <li> <h2>dfs</h2>
     <ul>
       <li> <a href = "https://codeforces.com/problemset/problem/369/C">Valera and Elections</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/659/E">New Reform</li>
     </ul>
   </li>
 </ol>
