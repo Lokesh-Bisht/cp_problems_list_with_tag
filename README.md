@@ -19,9 +19,10 @@
 
 <h1>Constructive algorithms</h1>
 <ul>
+    <li> <a href = "https://codeforces.com/problemset/problem/639/B">Bear and Forgotten Tree 3</a> (tree construction)</li>
     <li><a href = "https://codeforces.com/problemset/problem/1304/D">Shortest and Longest LIS</a></li>
     <li><a href = "https://codeforces.com/problemset/problem/1290/B">Irreducible Anagrams</a> (Hidden logic)</li>
-    <li><a href = "https://codeforces.com/problemset/problem/1023/D">Array Restoration</a> (Set/segment tree/sqrt decomposition + construction algo)</li>
+    <li><a href = "https://codeforces.com/problemset/problem/1023/D">Array Restoration</a> (Set/segment tree/sqrt decomposition + construction algo)         </li>
 </ul>
 
 <h1>Greedy</h1>
@@ -43,6 +44,9 @@
     <ul>
       <li> <a href = "https://codeforces.com/problemset/problem/369/C">Valera and Elections</li>
       <li> <a href = "https://codeforces.com/problemset/problem/659/E">New Reform</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/723/D">Lakes in Berland (flood fill)</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/682/C">Alyona and the Tree</li>
+        
     </ul>
   </li>
 </ol>
