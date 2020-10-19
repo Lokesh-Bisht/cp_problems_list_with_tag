@@ -16,7 +16,6 @@
   <li> <a href = "https://codeforces.com/problemset/problem/1066/E">Binary numbers and sum </a></li>
 </ul>
 
-
 <h1>Constructive algorithms</h1>
 <ul>
     <li> <a href = "https://codeforces.com/problemset/problem/639/B">Bear and Forgotten Tree 3</a> (tree construction)</li>
@@ -47,6 +46,12 @@
       <li> <a href = "https://codeforces.com/problemset/problem/723/D">Lakes in Berland (flood fill)</li>
       <li> <a href = "https://codeforces.com/problemset/problem/682/C">Alyona and the Tree</li>
       <li> <a href = "https://codeforces.com/problemset/problem/731/C">Socks (dfs+map)</li>
+    </ul>
+  </li>
+  
+  <li> <h2>bfs</h2>
+    <ul>
+      <li> <a href = "https://codeforces.com/problemset/problem/1133/F1">Spanning Tree with Maximum Degree</li>
     </ul>
   </li>
 </ol>
