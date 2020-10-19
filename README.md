@@ -35,10 +35,10 @@
 <h1>Graphs</h1>
 <ol>
   <li> <h2>APSP</h2>
-  <ul>
-    <li> <a href = "https://codeforces.com/problemset/problem/500/B">New Year Permutation (Floyd-Warshall on adj matrix)</li>
-    <li> <a href = "https://codeforces.com/problemset/problem/601/A">The Two Routes (Floyd-Warshall)</li>
-  </ul>
+    <ul>
+      <li> <a href = "https://codeforces.com/problemset/problem/500/B">New Year Permutation (Floyd-Warshall on adj matrix)</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/601/A">The Two Routes (Floyd-Warshall)</li>
+    </ul>
   </li>
   <li> <h2>dfs</h2>
     <ul>
@@ -46,6 +46,7 @@
       <li> <a href = "https://codeforces.com/problemset/problem/659/E">New Reform</li>
       <li> <a href = "https://codeforces.com/problemset/problem/723/D">Lakes in Berland (flood fill)</li>
       <li> <a href = "https://codeforces.com/problemset/problem/682/C">Alyona and the Tree</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/731/C">Socks (dfs+map)</li>
         
     </ul>
   </li>
