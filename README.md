@@ -52,6 +52,7 @@
   <li> <h2>bfs</h2>
     <ul>
       <li> <a href = "https://codeforces.com/problemset/problem/1133/F1">Spanning Tree with Maximum Degree</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/986/A">Fair</li>
     </ul>
   </li>
 </ol>
