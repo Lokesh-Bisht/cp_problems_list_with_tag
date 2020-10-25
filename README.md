@@ -52,7 +52,8 @@
   <li> <h2>bfs</h2>
     <ul>
       <li> <a href = "https://codeforces.com/problemset/problem/1133/F1">Spanning Tree with Maximum Degree</li>
-      <li> <a href = "https://codeforces.com/problemset/problem/986/A">Fair</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/986/A">Fair (shortest paths)</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/954/D">Fight Against Traffic (shortest paths)</li>
     </ul>
   </li>
 </ol>
