@@ -41,6 +41,7 @@
   </li>
   <li> <h2>dfs</h2>
     <ul>
+      <li> <a href = "https://codeforces.com/problemset/problem/763/A">Timofey and a tree</li>
       <li> <a href = "https://codeforces.com/problemset/problem/369/C">Valera and Elections</li>
       <li> <a href = "https://codeforces.com/problemset/problem/659/E">New Reform</li>
       <li> <a href = "https://codeforces.com/problemset/problem/723/D">Lakes in Berland (flood fill)</li>
