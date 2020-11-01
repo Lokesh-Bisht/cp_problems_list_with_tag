@@ -19,9 +19,10 @@
 <h1>Constructive algorithms</h1>
 <ul>
     <li> <a href = "https://codeforces.com/problemset/problem/639/B">Bear and Forgotten Tree 3</a> (tree construction)</li>
-    <li><a href = "https://codeforces.com/problemset/problem/1304/D">Shortest and Longest LIS</a></li>
-    <li><a href = "https://codeforces.com/problemset/problem/1290/B">Irreducible Anagrams</a> (Hidden logic)</li>
-    <li><a href = "https://codeforces.com/problemset/problem/1023/D">Array Restoration</a> (Set/segment tree/sqrt decomposition + construction algo)         </li>
+    <li> <a href = "https://codeforces.com/problemset/problem/916/C"> Jamie and Interesting Graph (Graph)</li>
+    <li><a href = "https://codeforces.com/problemset/problem/1304/D">Shortest and Longest LIS</li>
+    <li><a href = "https://codeforces.com/problemset/problem/1290/B">Irreducible Anagrams (Hidden logic)</li>
+    <li><a href = "https://codeforces.com/problemset/problem/1023/D">Array Restoration (Set/segment tree/sqrt decomposition + construction algo)         </li>
 </ul>
 
 <h1>Greedy</h1>
@@ -37,6 +38,11 @@
     <ul>
       <li> <a href = "https://codeforces.com/problemset/problem/500/B">New Year Permutation (Floyd-Warshall on adj matrix)</li>
       <li> <a href = "https://codeforces.com/problemset/problem/601/A">The Two Routes (Floyd-Warshall)</li>
+    </ul>
+  </li>
+  <li> <h2>Cycle</h2>
+    <ul>
+      <li> <a href = "https://codeforces.com/problemset/problem/131/D">Subway</li>
     </ul>
   </li>
   <li> <h2>dfs</h2>
