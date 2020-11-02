@@ -40,6 +40,12 @@
       <li> <a href = "https://codeforces.com/problemset/problem/601/A">The Two Routes (Floyd-Warshall)</li>
     </ul>
   </li>
+  <li> <h2> Flood fill </h2>
+    <ul>
+      <li> <a href = "https://codeforces.com/problemset/problem/793/B">Igor and his way to work</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/723/D">Lakes in Berland</li>
+    </ul>
+  </li>
   <li> <h2>Cycle</h2>
     <ul>
       <li> <a href = "https://codeforces.com/problemset/problem/131/D">Subway</li>
