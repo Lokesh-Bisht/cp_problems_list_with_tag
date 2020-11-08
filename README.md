@@ -67,6 +67,8 @@
       <li> <a href = "https://codeforces.com/problemset/problem/1133/F1">Spanning Tree with Maximum Degree</li>
       <li> <a href = "https://codeforces.com/problemset/problem/986/A">Fair (shortest paths)</li>
       <li> <a href = "https://codeforces.com/problemset/problem/954/D">Fight Against Traffic (shortest paths)</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/1037/D">Valid BFS? (sorting)</a></li>
+      
     </ul>
   </li>
 </ol>
