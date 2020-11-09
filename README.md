@@ -55,7 +55,7 @@
   
   <li> <h2>SCC</h2> 
     <ul>
-      <li> <a hre = "https://codeforces.com/problemset/problem/427/C">Checkposts</a></li>
+      <li> <a href = "https://codeforces.com/problemset/problem/427/C">Checkposts</a></li>
     </ul>
   </li>
   <li> <h2>dfs</h2>
