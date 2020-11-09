@@ -20,9 +20,9 @@
 <ul>
     <li> <a href = "https://codeforces.com/problemset/problem/639/B">Bear and Forgotten Tree 3</a> (tree construction)</li>
     <li> <a href = "https://codeforces.com/problemset/problem/916/C"> Jamie and Interesting Graph (Graph)</li>
-    <li><a href = "https://codeforces.com/problemset/problem/1304/D">Shortest and Longest LIS</li>
-    <li><a href = "https://codeforces.com/problemset/problem/1290/B">Irreducible Anagrams (Hidden logic)</li>
-    <li><a href = "https://codeforces.com/problemset/problem/1023/D">Array Restoration (Set/segment tree/sqrt decomposition + construction algo)         </li>
+    <li><a href = "https://codeforces.com/problemset/problem/1304/D">Shortest and Longest LIS</a></li>
+    <li><a href = "https://codeforces.com/problemset/problem/1290/B">Irreducible Anagrams (Hidden logic)</a></li>
+    <li><a href = "https://codeforces.com/problemset/problem/1023/D">Array Restoration (Set/segment tree/sqrt decomposition + construction algo)            </a></li>
 </ul>
 
 <h1>Greedy</h1>
@@ -46,9 +46,16 @@
       <li> <a href = "https://codeforces.com/problemset/problem/723/D">Lakes in Berland</li>
     </ul>
   </li>
+  
   <li> <h2>Cycle</h2>
     <ul>
-      <li> <a href = "https://codeforces.com/problemset/problem/131/D">Subway</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/131/D">Subway</a></li>
+    </ul>
+  </li>
+  
+  <li> <h2>SCC</h2> 
+    <ul>
+      <li> <a hre = "https://codeforces.com/problemset/problem/427/C">Checkposts</a></li>
     </ul>
   </li>
   <li> <h2>dfs</h2>
@@ -68,7 +75,6 @@
       <li> <a href = "https://codeforces.com/problemset/problem/986/A">Fair (shortest paths)</li>
       <li> <a href = "https://codeforces.com/problemset/problem/954/D">Fight Against Traffic (shortest paths)</li>
       <li> <a href = "https://codeforces.com/problemset/problem/1037/D">Valid BFS? (sorting)</a></li>
-      
     </ul>
   </li>
 </ol>
