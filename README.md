@@ -38,6 +38,7 @@
     <ul>
       <li> <a href = "https://codeforces.com/problemset/problem/500/B">New Year Permutation (Floyd-Warshall on adj matrix)</li>
       <li> <a href = "https://codeforces.com/problemset/problem/601/A">The Two Routes (Floyd-Warshall)</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/295/B">Greg and Graph (Floyd-Warshall)</a></li>
     </ul>
   </li>
   <li> <h2> Flood fill </h2>
