@@ -45,6 +45,7 @@
     <ul>
       <li> <a href = "https://codeforces.com/problemset/problem/793/B">Igor and his way to work</li>
       <li> <a href = "https://codeforces.com/problemset/problem/723/D">Lakes in Berland</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/598/D">Igor In the Museum</a></li>
     </ul>
   </li>
   
