@@ -68,6 +68,7 @@
       <li> <a href = "https://codeforces.com/problemset/problem/723/D">Lakes in Berland (flood fill)</li>
       <li> <a href = "https://codeforces.com/problemset/problem/682/C">Alyona and the Tree</li>
       <li> <a href = "https://codeforces.com/problemset/problem/731/C">Socks (dfs+map)</li>
+      <li> <a href = "https://codeforces.com/problemset/problem/489/D">Unbearable Controversy of Being (dfs+combinatorics)</a></li>
     </ul>
   </li>
   
