@@ -41,6 +41,11 @@
       <li> <a href = "https://codeforces.com/problemset/problem/295/B">Greg and Graph (Floyd-Warshall)</a></li>
     </ul>
   </li>
+  <li> <h2>Bipartite graph</h2>
+    <ul>
+      <li> <a href = "https://codeforces.com/problemset/problem/1093/D">Beautiful Graph</a></li>
+    </ul>
+  </li>
   <li> <h2> Flood fill </h2>
     <ul>
       <li> <a href = "https://codeforces.com/problemset/problem/793/B">Igor and his way to work</li>
@@ -69,6 +74,7 @@
       <li> <a href = "https://codeforces.com/problemset/problem/682/C">Alyona and the Tree</li>
       <li> <a href = "https://codeforces.com/problemset/problem/731/C">Socks (dfs+map)</li>
       <li> <a href = "https://codeforces.com/problemset/problem/489/D">Unbearable Controversy of Being (dfs+combinatorics)</a></li>
+      <li> <a href = "https://codeforces.com/problemset/problem/1209/D">Cow and Snacks (connected components)</a></li>
     </ul>
   </li>
   
