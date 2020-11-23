@@ -75,6 +75,7 @@
       <li> <a href = "https://codeforces.com/problemset/problem/731/C">Socks (dfs+map)</li>
       <li> <a href = "https://codeforces.com/problemset/problem/489/D">Unbearable Controversy of Being (dfs+combinatorics)</a></li>
       <li> <a href = "https://codeforces.com/problemset/problem/1209/D">Cow and Snacks (connected components)</a></li>
+      <li> <a href = "https://codeforces.com/contest/219/problem/D">Choosing Capital for Treeland (dp+map+dfs)</a></li>
     </ul>
   </li>
   
